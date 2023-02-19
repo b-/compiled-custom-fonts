@@ -5,7 +5,7 @@
 	font-weight: 100;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-thin.ttf') format('truetype'), url('woff2-unhinted/briosk-thin.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-thin.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-thin.woff2') format('woff2');
 }
 
 @font-face {
@@ -14,7 +14,7 @@
 	font-weight: 100;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extendedthin.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedthin.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedthin.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedthin.woff2') format('woff2');
 }
 
 @font-face {
@@ -23,7 +23,7 @@
 	font-weight: 100;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-thinoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-thinoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-thinoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-thinoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -31,7 +31,7 @@
 	font-display: swap;
 	font-weight: 100;
 	font-stretch: normal;
-	src: url('ttf-unhinted/briosk-thinoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-thinoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-thinoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-thinoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -40,7 +40,7 @@
 	font-weight: 100;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extendedthinoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedthinoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedthinoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedthinoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -48,7 +48,7 @@
 	font-display: swap;
 	font-weight: 100;
 	font-stretch: expanded;
-	src: url('ttf-unhinted/briosk-extendedthinoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedthinoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedthinoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedthinoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -57,7 +57,7 @@
 	font-weight: 100;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-thinitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-thinitalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-thinitalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-thinitalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -66,7 +66,7 @@
 	font-weight: 100;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extendedthinitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedthinitalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedthinitalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedthinitalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -75,7 +75,7 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extralight.ttf') format('truetype'), url('woff2-unhinted/briosk-extralight.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extralight.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extralight.woff2') format('woff2');
 }
 
 @font-face {
@@ -84,7 +84,7 @@
 	font-weight: 200;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extendedextralight.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedextralight.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedextralight.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedextralight.woff2') format('woff2');
 }
 
 @font-face {
@@ -93,7 +93,7 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extralightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extralightoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extralightoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extralightoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -101,7 +101,7 @@
 	font-display: swap;
 	font-weight: 200;
 	font-stretch: normal;
-	src: url('ttf-unhinted/briosk-extralightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extralightoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extralightoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extralightoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -110,7 +110,7 @@
 	font-weight: 200;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extendedextralightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedextralightoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedextralightoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedextralightoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -118,7 +118,7 @@
 	font-display: swap;
 	font-weight: 200;
 	font-stretch: expanded;
-	src: url('ttf-unhinted/briosk-extendedextralightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedextralightoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedextralightoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedextralightoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -127,7 +127,7 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extralightitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extralightitalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extralightitalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extralightitalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -136,7 +136,7 @@
 	font-weight: 200;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extendedextralightitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedextralightitalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedextralightitalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedextralightitalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -145,7 +145,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-light.ttf') format('truetype'), url('woff2-unhinted/briosk-light.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-light.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-light.woff2') format('woff2');
 }
 
 @font-face {
@@ -154,7 +154,7 @@
 	font-weight: 300;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extendedlight.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedlight.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedlight.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedlight.woff2') format('woff2');
 }
 
 @font-face {
@@ -163,7 +163,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-lightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-lightoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-lightoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-lightoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -171,7 +171,7 @@
 	font-display: swap;
 	font-weight: 300;
 	font-stretch: normal;
-	src: url('ttf-unhinted/briosk-lightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-lightoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-lightoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-lightoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -180,7 +180,7 @@
 	font-weight: 300;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extendedlightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedlightoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedlightoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedlightoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -188,7 +188,7 @@
 	font-display: swap;
 	font-weight: 300;
 	font-stretch: expanded;
-	src: url('ttf-unhinted/briosk-extendedlightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedlightoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedlightoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedlightoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -197,7 +197,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-lightitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-lightitalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-lightitalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-lightitalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -206,7 +206,7 @@
 	font-weight: 300;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extendedlightitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedlightitalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedlightitalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedlightitalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -215,7 +215,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-regular.ttf') format('truetype'), url('woff2-unhinted/briosk-regular.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-regular.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-regular.woff2') format('woff2');
 }
 
 @font-face {
@@ -224,7 +224,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extended.ttf') format('truetype'), url('woff2-unhinted/briosk-extended.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extended.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extended.woff2') format('woff2');
 }
 
 @font-face {
@@ -233,7 +233,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-oblique.ttf') format('truetype'), url('woff2-unhinted/briosk-oblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-oblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-oblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -241,7 +241,7 @@
 	font-display: swap;
 	font-weight: 400;
 	font-stretch: normal;
-	src: url('ttf-unhinted/briosk-oblique.ttf') format('truetype'), url('woff2-unhinted/briosk-oblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-oblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-oblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -250,7 +250,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extendedoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -258,7 +258,7 @@
 	font-display: swap;
 	font-weight: 400;
 	font-stretch: expanded;
-	src: url('ttf-unhinted/briosk-extendedoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -267,7 +267,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-italic.ttf') format('truetype'), url('woff2-unhinted/briosk-italic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-italic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-italic.woff2') format('woff2');
 }
 
 @font-face {
@@ -276,7 +276,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extendeditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extendeditalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendeditalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendeditalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -285,7 +285,7 @@
 	font-weight: 500;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-medium.ttf') format('truetype'), url('woff2-unhinted/briosk-medium.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-medium.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-medium.woff2') format('woff2');
 }
 
 @font-face {
@@ -294,7 +294,7 @@
 	font-weight: 500;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extendedmedium.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedmedium.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedmedium.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedmedium.woff2') format('woff2');
 }
 
 @font-face {
@@ -303,7 +303,7 @@
 	font-weight: 500;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-mediumoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-mediumoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-mediumoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-mediumoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -311,7 +311,7 @@
 	font-display: swap;
 	font-weight: 500;
 	font-stretch: normal;
-	src: url('ttf-unhinted/briosk-mediumoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-mediumoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-mediumoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-mediumoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -320,7 +320,7 @@
 	font-weight: 500;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extendedmediumoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedmediumoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedmediumoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedmediumoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -328,7 +328,7 @@
 	font-display: swap;
 	font-weight: 500;
 	font-stretch: expanded;
-	src: url('ttf-unhinted/briosk-extendedmediumoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedmediumoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedmediumoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedmediumoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -337,7 +337,7 @@
 	font-weight: 500;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-mediumitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-mediumitalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-mediumitalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-mediumitalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -346,7 +346,7 @@
 	font-weight: 500;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extendedmediumitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedmediumitalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedmediumitalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedmediumitalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -355,7 +355,7 @@
 	font-weight: 600;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-semibold.ttf') format('truetype'), url('woff2-unhinted/briosk-semibold.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-semibold.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-semibold.woff2') format('woff2');
 }
 
 @font-face {
@@ -364,7 +364,7 @@
 	font-weight: 600;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extendedsemibold.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedsemibold.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedsemibold.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedsemibold.woff2') format('woff2');
 }
 
 @font-face {
@@ -373,7 +373,7 @@
 	font-weight: 600;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-semiboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-semiboldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-semiboldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-semiboldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -381,7 +381,7 @@
 	font-display: swap;
 	font-weight: 600;
 	font-stretch: normal;
-	src: url('ttf-unhinted/briosk-semiboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-semiboldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-semiboldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-semiboldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -390,7 +390,7 @@
 	font-weight: 600;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extendedsemiboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedsemiboldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedsemiboldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedsemiboldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -398,7 +398,7 @@
 	font-display: swap;
 	font-weight: 600;
 	font-stretch: expanded;
-	src: url('ttf-unhinted/briosk-extendedsemiboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedsemiboldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedsemiboldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedsemiboldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -407,7 +407,7 @@
 	font-weight: 600;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-semibolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-semibolditalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-semibolditalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-semibolditalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -416,7 +416,7 @@
 	font-weight: 600;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extendedsemibolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedsemibolditalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedsemibolditalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedsemibolditalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -425,7 +425,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-bold.ttf') format('truetype'), url('woff2-unhinted/briosk-bold.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-bold.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-bold.woff2') format('woff2');
 }
 
 @font-face {
@@ -434,7 +434,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extendedbold.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedbold.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedbold.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedbold.woff2') format('woff2');
 }
 
 @font-face {
@@ -443,7 +443,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-boldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-boldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-boldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-boldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -451,7 +451,7 @@
 	font-display: swap;
 	font-weight: 700;
 	font-stretch: normal;
-	src: url('ttf-unhinted/briosk-boldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-boldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-boldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-boldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -460,7 +460,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extendedboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedboldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedboldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedboldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -468,7 +468,7 @@
 	font-display: swap;
 	font-weight: 700;
 	font-stretch: expanded;
-	src: url('ttf-unhinted/briosk-extendedboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedboldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedboldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedboldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -477,7 +477,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-bolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-bolditalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-bolditalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-bolditalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -486,7 +486,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extendedbolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedbolditalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedbolditalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedbolditalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -495,7 +495,7 @@
 	font-weight: 800;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extrabold.ttf') format('truetype'), url('woff2-unhinted/briosk-extrabold.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extrabold.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extrabold.woff2') format('woff2');
 }
 
 @font-face {
@@ -504,7 +504,7 @@
 	font-weight: 800;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extendedextrabold.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedextrabold.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedextrabold.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedextrabold.woff2') format('woff2');
 }
 
 @font-face {
@@ -513,7 +513,7 @@
 	font-weight: 800;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extraboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extraboldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extraboldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extraboldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -521,7 +521,7 @@
 	font-display: swap;
 	font-weight: 800;
 	font-stretch: normal;
-	src: url('ttf-unhinted/briosk-extraboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extraboldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extraboldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extraboldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -530,7 +530,7 @@
 	font-weight: 800;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extendedextraboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedextraboldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedextraboldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedextraboldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -538,7 +538,7 @@
 	font-display: swap;
 	font-weight: 800;
 	font-stretch: expanded;
-	src: url('ttf-unhinted/briosk-extendedextraboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedextraboldoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedextraboldoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedextraboldoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -547,7 +547,7 @@
 	font-weight: 800;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extrabolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extrabolditalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extrabolditalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extrabolditalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -556,7 +556,7 @@
 	font-weight: 800;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extendedextrabolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedextrabolditalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedextrabolditalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedextrabolditalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -565,7 +565,7 @@
 	font-weight: 900;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-heavy.ttf') format('truetype'), url('woff2-unhinted/briosk-heavy.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-heavy.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-heavy.woff2') format('woff2');
 }
 
 @font-face {
@@ -574,7 +574,7 @@
 	font-weight: 900;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('ttf-unhinted/briosk-extendedheavy.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedheavy.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedheavy.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedheavy.woff2') format('woff2');
 }
 
 @font-face {
@@ -583,7 +583,7 @@
 	font-weight: 900;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-heavyoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-heavyoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-heavyoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-heavyoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -591,7 +591,7 @@
 	font-display: swap;
 	font-weight: 900;
 	font-stretch: normal;
-	src: url('ttf-unhinted/briosk-heavyoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-heavyoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-heavyoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-heavyoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -600,7 +600,7 @@
 	font-weight: 900;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('ttf-unhinted/briosk-extendedheavyoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedheavyoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedheavyoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedheavyoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -608,7 +608,7 @@
 	font-display: swap;
 	font-weight: 900;
 	font-stretch: expanded;
-	src: url('ttf-unhinted/briosk-extendedheavyoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedheavyoblique.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedheavyoblique.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedheavyoblique.woff2') format('woff2');
 }
 
 @font-face {
@@ -617,7 +617,7 @@
 	font-weight: 900;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-heavyitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-heavyitalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-heavyitalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-heavyitalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -626,5 +626,5 @@
 	font-weight: 900;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('ttf-unhinted/briosk-extendedheavyitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-extendedheavyitalic.woff2') format('woff2');
+	src: url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/ttf-unhinted/briosk-extendedheavyitalic.ttf') format('truetype'), url('https://raw.githubusercontent.com/b-/compiled-custom-fonts/master/dist/woff2-unhinted/briosk-extendedheavyitalic.woff2') format('woff2');
 }
