@@ -1,0 +1,630 @@
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-thin.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-thin.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extendedthin.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedthin.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-thinoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-thinoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	src: url('ttf-unhinted/briosk-proportional-thinoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-thinoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extendedthinoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedthinoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: expanded;
+	src: url('ttf-unhinted/briosk-proportional-extendedthinoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedthinoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-thinitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-thinitalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extendedthinitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedthinitalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extralight.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extralight.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extendedextralight.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedextralight.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extralightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extralightoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	src: url('ttf-unhinted/briosk-proportional-extralightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extralightoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extendedextralightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedextralightoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: expanded;
+	src: url('ttf-unhinted/briosk-proportional-extendedextralightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedextralightoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extralightitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extralightitalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extendedextralightitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedextralightitalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-light.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-light.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extendedlight.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedlight.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-lightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-lightoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	src: url('ttf-unhinted/briosk-proportional-lightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-lightoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extendedlightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedlightoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	src: url('ttf-unhinted/briosk-proportional-extendedlightoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedlightoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-lightitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-lightitalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extendedlightitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedlightitalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-regular.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extended.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extended.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-oblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-oblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	src: url('ttf-unhinted/briosk-proportional-oblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-oblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extendedoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	src: url('ttf-unhinted/briosk-proportional-extendedoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-italic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-italic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extendeditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendeditalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-medium.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-medium.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extendedmedium.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedmedium.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-mediumoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-mediumoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	src: url('ttf-unhinted/briosk-proportional-mediumoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-mediumoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extendedmediumoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedmediumoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	src: url('ttf-unhinted/briosk-proportional-extendedmediumoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedmediumoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-mediumitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-mediumitalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extendedmediumitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedmediumitalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-semibold.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-semibold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extendedsemibold.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedsemibold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-semiboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-semiboldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	src: url('ttf-unhinted/briosk-proportional-semiboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-semiboldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extendedsemiboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedsemiboldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	src: url('ttf-unhinted/briosk-proportional-extendedsemiboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedsemiboldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-semibolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-semibolditalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extendedsemibolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedsemibolditalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-bold.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-bold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extendedbold.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedbold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-boldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-boldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	src: url('ttf-unhinted/briosk-proportional-boldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-boldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extendedboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedboldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	src: url('ttf-unhinted/briosk-proportional-extendedboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedboldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-bolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-bolditalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extendedbolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedbolditalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extrabold.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extrabold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extendedextrabold.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedextrabold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extraboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extraboldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	src: url('ttf-unhinted/briosk-proportional-extraboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extraboldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extendedextraboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedextraboldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: expanded;
+	src: url('ttf-unhinted/briosk-proportional-extendedextraboldoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedextraboldoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extrabolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extrabolditalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extendedextrabolditalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedextrabolditalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-heavy.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-heavy.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('ttf-unhinted/briosk-proportional-extendedheavy.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedheavy.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-heavyoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-heavyoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	src: url('ttf-unhinted/briosk-proportional-heavyoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-heavyoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('ttf-unhinted/briosk-proportional-extendedheavyoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedheavyoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web Oblique';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: expanded;
+	src: url('ttf-unhinted/briosk-proportional-extendedheavyoblique.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedheavyoblique.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-heavyitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-heavyitalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'briosk-proportional Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('ttf-unhinted/briosk-proportional-extendedheavyitalic.ttf') format('truetype'), url('woff2-unhinted/briosk-proportional-extendedheavyitalic.woff2') format('woff2');
+}
